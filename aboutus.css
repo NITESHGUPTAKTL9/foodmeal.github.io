@@ -1,0 +1,36 @@
+body{
+padding:0;
+margin:0;
+color:black;
+background-image:url('Aboutus.jpg');
+background-repeat: no-repeat;
+  background-size: 1400px 2000px;
+font-family: 'Baloo Chettan 2', cursive;
+}
+
+#image img
+{
+border:5px solid black;
+border-radius:10px;
+height:200px;
+width:auto;
+margin:20px;
+margin-left:528px;
+}
+.borderout
+{
+border:5px solid black;
+margin-top:30px;
+margin-left:50px;
+border-radius:15px;
+margin-right:50px;
+padding-left:20px;
+padding-right:20px;
+font-size:20px;
+margin-bottom:50px;
+padding-bottom:30px;
+}
+.middle2
+{
+text-align:center;
+}

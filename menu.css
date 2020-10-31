@@ -1,0 +1,33 @@
+body{
+padding:0;
+margin:0;
+color:black;
+font-family: 'Baloo Chettan 2', cursive;
+}
+.filter
+{
+width: 1200px;
+height: 650px;
+margin-left:70px;
+margin-right:50px;
+border:4px solid black;
+padding:30px 0px 30px 0px;
+border-radius:20px;
+}
+.filter1
+{
+width: 1200px;
+height: 700px;
+margin-left:50px;
+margin-right:50px;
+
+padding:30px;
+
+}
+.colur
+{
+text-align:center;
+font-size:45px;
+color:orange;
+text-shadow: 2px 2px 3px red;
+}

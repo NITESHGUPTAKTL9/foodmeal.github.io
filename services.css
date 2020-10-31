@@ -1,0 +1,48 @@
+body{
+padding:0;
+margin:=0;
+color:black;
+background-image:url('background.jpg');
+background-repeat: no-repeat;
+  background-size: 1400px 2250px;
+font-family: 'Baloo Chettan 2', cursive;
+}
+.center1{
+color:red;
+text-align:center;
+margin-top:90px;
+font-size:35px;
+text-shadow: 2px 2px 3px yellow;
+}
+.middle
+{
+margin-left:90px;
+margin-right:90px;
+}.color
+{
+color:yellow;
+font-size:20px;
+text-shadow: 2px 2px 3px red;
+}
+.color1{
+color:black;
+font-size:30px;
+text-shadow: 2px 2px 3px red;
+}
+.btn1{
+padding:8px;
+border:4px solid black;
+border-radius:8px;
+text-align:center;
+margin-left:450px;
+
+}
+.btn1:hover{
+background-color:yellow;
+border:2px solid pink;
+border-radius:8px;
+color:black;
+cursor:pointer;
+border:2px solid green;
+  font-weight: bold;
+}

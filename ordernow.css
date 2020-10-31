@@ -1,0 +1,49 @@
+body{
+padding:0;
+margin:=0;
+color:black;
+background-image:url('ordernowback.jpg');
+background-repeat: no-repeat;
+  background-size: 1400px 670px;
+font-family: 'Baloo Chettan 2', cursive;
+}
+.cent
+{
+text-align:center;
+margin-top:150px;
+}
+.shift1
+{
+display: box;
+text-align:center;
+border:2px solid black;
+padding: 20px 10px;
+margin: 0 500px;
+border-radius:15px;
+list-style:none;
+text-decoration:none;
+margin-top:30px;
+}
+.btn3{
+padding:8px;
+border:2px solid black;
+border-radius:8px;
+text-align:center;
+}
+.btn3:hover{
+background-color:yellow;
+border:2px solid pink;
+border-radius:8px;
+color:black;
+cursor:pointer;
+border:2px solid green;
+  font-weight: bold;
+}
+.shift1 input
+{
+text-align:center;
+padding:5px;
+border:1px solid black;
+border-radius:5px;
+}
+
